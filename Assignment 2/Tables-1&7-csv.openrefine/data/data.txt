@@ -1,0 +1,49 @@
+3.2
+columnModel=
+maxCellIndex=8
+keyColumnIndex=0
+columnCount=8
+{"cellIndex":0,"originalName":"﻿Age group","constraints":"{}","type":"","format":"default","title":"","description":"","name":"﻿Age group"}
+{"cellIndex":1,"originalName":"Male","constraints":"{}","type":"","format":"default","title":"","description":"","name":"Male"}
+{"cellIndex":2,"originalName":"Male workers percentage","constraints":"{}","type":"","format":"default","title":"","description":"","name":"Male workers percentage"}
+{"cellIndex":3,"originalName":"Female","constraints":"{}","type":"","format":"default","title":"","description":"","name":"Female"}
+{"cellIndex":4,"originalName":"Female workers percentage","constraints":"{}","type":"","format":"default","title":"","description":"","name":"Female workers percentage"}
+{"cellIndex":6,"originalName":"Monthly wage (HK$) 25th percentile","constraints":"{}","type":"","format":"default","title":"","description":"","name":"Monthly wage (HK$) 25th percentile"}
+{"cellIndex":7,"originalName":"Monthly wage (HK$) 50th percentile","constraints":"{}","type":"","format":"default","title":"","description":"","name":"Monthly wage (HK$) 50th percentile"}
+{"cellIndex":8,"originalName":"Monthly wage (HK$) 75th percentile","constraints":"{}","type":"","format":"default","title":"","description":"","name":"Monthly wage (HK$) 75th percentile"}
+columnGroupCount=0
+/e/
+history=
+pastEntryCount=23
+{"id":1570964834118,"description":"Remove column Age group","operation":{"op":"core/column-removal","columnName":"Age group","description":"Remove column Age group"},"time":"2019-10-13T11:02:18Z"}
+{"id":1570965038252,"description":"Edit single cell on row 1, column Female workers percentage","operation":null,"time":"2019-10-13T11:03:06Z"}
+{"id":1570964675203,"description":"Edit single cell on row 2, column Female workers percentage","operation":null,"time":"2019-10-13T11:03:09Z"}
+{"id":1570965252252,"description":"Edit single cell on row 3, column Female workers percentage","operation":null,"time":"2019-10-13T11:03:12Z"}
+{"id":1570965430301,"description":"Edit single cell on row 4, column Female workers percentage","operation":null,"time":"2019-10-13T11:03:16Z"}
+{"id":1570965308453,"description":"Edit single cell on row 5, column Female workers percentage","operation":null,"time":"2019-10-13T11:03:40Z"}
+{"id":1570964991895,"description":"Edit single cell on row 1, column Male workers percentage","operation":null,"time":"2019-10-13T11:04:59Z"}
+{"id":1570965076660,"description":"Edit single cell on row 2, column Male workers percentage","operation":null,"time":"2019-10-13T11:05:02Z"}
+{"id":1570965460905,"description":"Edit single cell on row 3, column Male workers percentage","operation":null,"time":"2019-10-13T11:05:10Z"}
+{"id":1570964713637,"description":"Edit single cell on row 4, column Male workers percentage","operation":null,"time":"2019-10-13T11:05:13Z"}
+{"id":1570964846112,"description":"Edit single cell on row 5, column Male workers percentage","operation":null,"time":"2019-10-13T11:05:15Z"}
+{"id":1570964938057,"description":"Text transform on 0 cells in column Female workers percentage: value.toNumber()","operation":{"op":"core/text-transform","engineConfig":{"facets":[],"mode":"row-based"},"columnName":"Female workers percentage","expression":"value.toNumber()","onError":"keep-original","repeat":false,"repeatCount":10,"description":"Text transform on cells in column Female workers percentage using expression value.toNumber()"},"time":"2019-10-13T11:06:58Z"}
+{"id":1570964913435,"description":"Edit single cell on row 1, column Female workers percentage","operation":null,"time":"2019-10-13T11:07:14Z"}
+{"id":1570965751557,"description":"Edit single cell on row 3, column Male workers percentage","operation":null,"time":"2019-10-13T11:11:56Z"}
+{"id":1570965853662,"description":"Edit single cell on row 1, column Female workers percentage","operation":null,"time":"2019-10-13T11:12:01Z"}
+{"id":1570965964446,"description":"Edit single cell on row 5, column Female workers percentage","operation":null,"time":"2019-10-13T11:12:05Z"}
+{"id":1570965481055,"description":"Text transform on 5 cells in column Monthly wage (HK$) 25th percentile: value.toNumber()","operation":{"op":"core/text-transform","engineConfig":{"facets":[],"mode":"row-based"},"columnName":"Monthly wage (HK$) 25th percentile","expression":"value.toNumber()","onError":"keep-original","repeat":false,"repeatCount":10,"description":"Text transform on cells in column Monthly wage (HK$) 25th percentile using expression value.toNumber()"},"time":"2019-10-13T11:12:21Z"}
+{"id":1570965299360,"description":"Text transform on 2 cells in column Female workers percentage: value.toNumber()","operation":{"op":"core/text-transform","engineConfig":{"facets":[],"mode":"row-based"},"columnName":"Female workers percentage","expression":"value.toNumber()","onError":"keep-original","repeat":false,"repeatCount":10,"description":"Text transform on cells in column Female workers percentage using expression value.toNumber()"},"time":"2019-10-13T11:12:30Z"}
+{"id":1570965906698,"description":"Edit single cell on row 1, column Female workers percentage","operation":null,"time":"2019-10-13T11:12:41Z"}
+{"id":1570965410044,"description":"Edit single cell on row 5, column Female workers percentage","operation":null,"time":"2019-10-13T11:12:44Z"}
+{"id":1570965275211,"description":"Text transform on 5 cells in column Monthly wage (HK$) 50th percentile: value.toNumber()","operation":{"op":"core/text-transform","engineConfig":{"facets":[],"mode":"row-based"},"columnName":"Monthly wage (HK$) 50th percentile","expression":"value.toNumber()","onError":"keep-original","repeat":false,"repeatCount":10,"description":"Text transform on cells in column Monthly wage (HK$) 50th percentile using expression value.toNumber()"},"time":"2019-10-13T11:12:55Z"}
+{"id":1570965994672,"description":"Text transform on 5 cells in column Monthly wage (HK$) 75th percentile: value.toNumber()","operation":{"op":"core/text-transform","engineConfig":{"facets":[],"mode":"row-based"},"columnName":"Monthly wage (HK$) 75th percentile","expression":"value.toNumber()","onError":"keep-original","repeat":false,"repeatCount":10,"description":"Text transform on cells in column Monthly wage (HK$) 75th percentile using expression value.toNumber()"},"time":"2019-10-13T11:13:11Z"}
+{"id":1570965787831,"description":"Edit single cell on row 3, column Male workers percentage","operation":null,"time":"2019-10-13T11:14:02Z"}
+futureEntryCount=1
+{"id":1570965822894,"description":"Text transform on 5 cells in column Female: value.toNumber()","operation":{"op":"core/text-transform","engineConfig":{"facets":[],"mode":"row-based"},"columnName":"Female","expression":"value.toNumber()","onError":"keep-original","repeat":false,"repeatCount":10,"description":"Text transform on cells in column Female using expression value.toNumber()"},"time":"2019-10-13T11:19:31Z"}
+/e/
+rowCount=5
+{"starred":false,"flagged":false,"cells":[{"v":"15-24"},{"v":"110.3"},{"v":"3.6%"},{"v":"121.2"},{"v":"3.9%"},null,{"v":10500},{"v":13000},{"v":16000}]}
+{"starred":false,"flagged":false,"cells":[{"v":"25-34"},{"v":"385.5"},{"v":"12.5%"},{"v":"407.6"},{"v":"13.2%"},null,{"v":14000},{"v":18300},{"v":26000}]}
+{"starred":false,"flagged":false,"cells":[{"v":"35-44"},{"v":"396.8"},{"v":"12.8%"},{"v":"399.5"},{"v":"12.9%"},null,{"v":14200},{"v":20500},{"v":33500}]}
+{"starred":false,"flagged":false,"cells":[{"v":"45-54"},{"v":"408.8"},{"v":"13.2%"},{"v":"373.5"},{"v":"12.1%"},null,{"v":12400},{"v":18000},{"v":28900}]}
+{"starred":false,"flagged":false,"cells":[{"v":"≥55"},{"v":"289.2"},{"v":"9.4%"},{"v":"196.2"},{"v":"6.4%"},null,{"v":11000},{"v":14600},{"v":22100}]}
