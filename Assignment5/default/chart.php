@@ -1,0 +1,1 @@
+<iframe title="Shares of adulthood obesity from 1975 to 2016" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/LgGy9/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="560"></iframe>
